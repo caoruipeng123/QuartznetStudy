@@ -49,7 +49,7 @@ namespace Quartz
             Hour = hour;
             Minute = minute;
             Second = second;
-            Validate();
+            Validate();//校验参数
         }
 
         /// <summary>
