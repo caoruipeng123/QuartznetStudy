@@ -1,9 +1,9 @@
-using Quartz.Util;
+﻿using Quartz.Util;
 
 namespace Quartz
 {
     ///<summary>
-    /// Uniquely identifies a <see cref="ITrigger" />.
+    /// Uniquely identifies a <see cref="ITrigger" />.s
     /// </summary>
     /// <remarks>
     /// <para>Keys are composed of both a name and group, and the name must be unique
